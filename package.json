@@ -1,0 +1,32 @@
+{
+  "name": "serialize-like-php",
+  "version": "1.0.0",
+  "description": "Emulates the php functions for serialize and unserialize",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wunderlink/serialize-like-php.git"
+  },
+  "keywords": [
+    "serialize",
+    "unserialize",
+    "php"
+  ],
+  "author": "Tyler Bushnell <wunderlinks@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wunderlink/serialize-like-php/issues"
+  },
+  "homepage": "https://github.com/wunderlink/serialize-like-php#readme",
+  "devDependencies": {
+    "deep-equal": "^1.0.0",
+    "tape": "^4.0.0"
+  }
+}
