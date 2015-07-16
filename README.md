@@ -1,12 +1,13 @@
 # serialize-like-php #
 
-Emulates the php functions for serialize and unserialize.
+Emulates the php functions for serialize and unserialize. Helpful for working with (or migrating!) php applications.
 
 ## Credits
 
 I just packageified this and added tests. These are the folks that wrote the meat of it:
 
-serialize:
+### serialize:
+```
 discuss at: http://phpjs.org/functions/serialize/
 original by: Arpad Ray (mailto:arpad@php.net)
 improved by: Dino
@@ -18,8 +19,10 @@ bugfixed by: Russell Walker (http://www.nbill.co.uk/)
 bugfixed by: Jamie Beck (http://www.terabit.ca/)
 bugfixed by: Kevin van Zonneveld (http://kevin.vanzonneveld.net/)
 bugfixed by: Ben (http://benblume.co.uk/)
+```
 
-unserialize:
+### unserialize:
+```
 discuss at: http://phpjs.org/functions/unserialize/
 original by: Arpad Ray (mailto:arpad@php.net)
 improved by: Pedro Tainha (http://www.pedrotainha.com)
@@ -37,4 +40,5 @@ bugfixed by: Brett Zamir (http://brett-zamir.me)
    input by: Martin (http://www.erlenwiese.de/)
    input by: kilops
    input by: Jaroslaw Czarniak
+```
 
