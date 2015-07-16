@@ -1,6 +1,6 @@
 {
   "name": "serialize-like-php",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Emulates the php functions for serialize and unserialize",
   "main": "index.js",
   "directories": {
